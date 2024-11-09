@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4dedc0930987ed85",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1bb1a766485d76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab9d1c26b13c10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/4 вопрос (пределы)/Отделимость от нуля последовательности, сходящейся не к нулю..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отделимость от нуля последовательности, сходящейся не к нулю."
+            },
+            "group": "efd62e89d5e39c4b"
+          }
+        ]
+      },
+      {
+        "id": "9612bf040d473f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0752277cda9dcf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матан/4 вопрос (пределы)/Отделимость от нуля последовательности, сходящейся не к нулю..md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Отделимость от нуля последовательности, сходящейся не к нулю."
+            },
+            "group": "efd62e89d5e39c4b"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ca511745f195acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8dbee1e1577573",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39756838855d42ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "54cd99425b02e293",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "09bd1364947fc561",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 456.5
+  },
+  "right": {
+    "id": "9e9cded9dd9a1d77",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f4359e4a7abaed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13613f6637222a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Матан/Без названия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Без названия"
+            }
+          },
+          {
+            "id": "f7919c4da5f2cc28",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Матан/Без названия.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Без названия"
+            }
+          },
+          {
+            "id": "d3238ad971bdde2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ee14ffd58ddbad7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Матан/Без названия.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "fab9d1c26b13c10b",
+  "lastOpenFiles": [
+    "Матан/4 вопрос (пределы)/Теорема о сходимости сходящихся последовательностей..md",
+    "Матан/Предикаты и кванторы..md",
+    "Матан/4 вопрос (пределы)/Понятие последовательности..md",
+    "Матан/4 вопрос (пределы)/Отделимость от нуля последовательности, сходящейся не к нулю..md",
+    "Матан/Доказательства методами математической индукции. Доказательства от противного. Неравенство Бернулли./Доказательства методами математической индукции..md",
+    "Матан/Доказательства методами математической индукции. Доказательства от противного. Неравенство Бернулли./Доказательства от противного..md",
+    "Матан/Доказательства методами математической индукции. Доказательства от противного. Неравенство Бернулли./Неравенство Бернулли..md",
+    "Матан/Темы.md",
+    "Матан/4 вопрос (пределы)/Ограниченные, бесконечно малые, бесконечно большие  и отделимые от нуля последовательности..md",
+    "Матан/4 вопрос (пределы)/Предел последовательности..md",
+    "Матан/4 вопрос (пределы)/Единственность предела..md",
+    "Матан/4 вопрос (пределы)/Ограниченная последовательность..md",
+    "Матан/4 вопрос (пределы)/Бесконечно малые последовательности..md",
+    "Матан/4 вопрос (пределы)",
+    "Матан/Перестановки, размещения и сочетания. Бином Ньютона.",
+    "Матан/Доказательства методами математической индукции. Доказательства от противного. Неравенство Бернулли.",
+    "Матан/Перестановки, размещения и сочетания. Бином Ньютона./Перестановки, размещения и сочетания..md",
+    "Матан/Перестановки, размещения и сочетания. Бином Ньютона./Бином Ньютона..md",
+    "Без названия.canvas",
+    "Доказательства методами математической индукции.md",
+    "Матан",
+    "Добро пожаловать.md"
+  ]
+}
